@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vr0z3P6msnmT+c0H71r0OB30aat1KoFd+nTo4TvraHo=",
+  "Source": "AuctionService.API",
+  "BasePath": "_content/AuctionService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
