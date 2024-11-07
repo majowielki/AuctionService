@@ -10,14 +10,14 @@
         "projectUniqueName": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\AuctionService.API.csproj",
         "projectName": "AuctionService.API",
         "projectPath": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\AuctionService.API.csproj",
-        "packagesPath": "C:\\Users\\Michał\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\mmaje\\.nuget\\packages\\",
         "outputPath": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Michał\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mmaje\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

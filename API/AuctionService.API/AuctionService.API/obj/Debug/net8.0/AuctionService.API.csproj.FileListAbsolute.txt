@@ -129,3 +129,4 @@ D:\Project\DockerAndKubernetes\auctionservice-app\API\AuctionService.API\Auction
 D:\Project\DockerAndKubernetes\auctionservice-app\API\AuctionService.API\AuctionService.API\obj\Debug\net8.0\AuctionService.API.pdb
 D:\Project\DockerAndKubernetes\auctionservice-app\API\AuctionService.API\AuctionService.API\obj\Debug\net8.0\AuctionService.API.genruntimeconfig.cache
 D:\Project\DockerAndKubernetes\auctionservice-app\API\AuctionService.API\AuctionService.API\obj\Debug\net8.0\ref\AuctionService.API.dll
+D:\Project\DockerAndKubernetes\auctionservice-app\API\AuctionService.API\AuctionService.API\obj\Debug\net8.0\AuctionService.API.sourcelink.json

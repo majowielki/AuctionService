@@ -6,7 +6,13 @@
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "date",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.List\u00601[[AuctionService.API.DTOs.AuctionDto, AuctionService.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
@@ -70,5 +76,52 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "AuctionService.API.Controllers.AuctionsController",
+    "Method": "UpdateAuction",
+    "RelativePath": "api/auctions/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "auctionDto",
+        "Type": "AuctionService.API.DTOs.UpdateAuctionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AuctionService.API.DTOs.AuctionDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AuctionService.API.Controllers.AuctionsController",
+    "Method": "DeleteAuction",
+    "RelativePath": "api/auctions/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
