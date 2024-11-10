@@ -130,3 +130,10 @@ D:\Project\DockerAndKubernetes\auctionservice-app\API\AuctionService.API\Auction
 D:\Project\DockerAndKubernetes\auctionservice-app\API\AuctionService.API\AuctionService.API\obj\Debug\net8.0\AuctionService.API.genruntimeconfig.cache
 D:\Project\DockerAndKubernetes\auctionservice-app\API\AuctionService.API\AuctionService.API\obj\Debug\net8.0\ref\AuctionService.API.dll
 D:\Project\DockerAndKubernetes\auctionservice-app\API\AuctionService.API\AuctionService.API\obj\Debug\net8.0\AuctionService.API.sourcelink.json
+D:\Project\DockerAndKubernetes\auctionservice-app\API\AuctionService.API\AuctionService.API\bin\Debug\net8.0\MassTransit.dll
+D:\Project\DockerAndKubernetes\auctionservice-app\API\AuctionService.API\AuctionService.API\bin\Debug\net8.0\MassTransit.Abstractions.dll
+D:\Project\DockerAndKubernetes\auctionservice-app\API\AuctionService.API\AuctionService.API\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+D:\Project\DockerAndKubernetes\auctionservice-app\API\AuctionService.API\AuctionService.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Project\DockerAndKubernetes\auctionservice-app\API\AuctionService.API\AuctionService.API\bin\Debug\net8.0\Contracts.dll
+D:\Project\DockerAndKubernetes\auctionservice-app\API\AuctionService.API\AuctionService.API\bin\Debug\net8.0\Contracts.pdb
+D:\Project\DockerAndKubernetes\auctionservice-app\API\AuctionService.API\AuctionService.API\bin\Debug\net8.0\MassTransit.EntityFrameworkCoreIntegration.dll

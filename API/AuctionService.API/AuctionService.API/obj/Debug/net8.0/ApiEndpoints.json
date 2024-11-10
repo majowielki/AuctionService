@@ -91,7 +91,7 @@
         "IsRequired": true
       },
       {
-        "Name": "auctionDto",
+        "Name": "updateAuctionDto",
         "Type": "AuctionService.API.DTOs.UpdateAuctionDto",
         "IsRequired": true
       }

@@ -1,4 +1,7 @@
-﻿using AutoMapper;
+﻿using AuctionService.API.DTOs;
+using AuctionService.API.Entities;
+using AutoMapper;
+using Contracts;
 
 namespace AuctionService.API.RequestHelpers
 {
@@ -6,10 +9,13 @@ namespace AuctionService.API.RequestHelpers
     {
         public MappingProfiles()
         {
-            CreateMap<Entities.Auction, DTOs.AuctionDto>().IncludeMembers(x => x.Item);
-            CreateMap<Entities.Item, DTOs.AuctionDto>();
-            CreateMap<DTOs.CreateAuctionDto, Entities.Auction>().ForMember(d => d.Item, o => o.MapFrom(s => s));
-            CreateMap<DTOs.CreateAuctionDto, Entities.Item>();
+            CreateMap<Auction, AuctionDto>().IncludeMembers(x => x.Item);
+            CreateMap<Item, AuctionDto>();
+            CreateMap<CreateAuctionDto, Auction>().ForMember(d => d.Item, o => o.MapFrom(s => s));
+            CreateMap<CreateAuctionDto, Item>();
+            CreateMap<AuctionDto, AuctionCreated>();
+            CreateMap<Auction, AuctionUpdated>().IncludeMembers(a => a.Item);
+            CreateMap<Item, AuctionUpdated>();
         }
     }
 }

@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|d:\\project\\dockerandkubernetes\\auctionservice-app\\api\\auctionservice.api\\auctionservice.api\\data\\auctiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|solutionrelative:auctionservice.api\\data\\auctiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|d:\\project\\dockerandkubernetes\\auctionservice-app\\api\\auctionservice.api\\auctionservice.api\\controllers\\auctionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|solutionrelative:auctionservice.api\\controllers\\auctionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|d:\\project\\dockerandkubernetes\\auctionservice-app\\api\\auctionservice.api\\auctionservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|solutionrelative:auctionservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|d:\\project\\dockerandkubernetes\\auctionservice-app\\api\\auctionservice.api\\auctionservice.api\\requesthelpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|solutionrelative:auctionservice.api\\requesthelpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|d:\\project\\dockerandkubernetes\\auctionservice-app\\api\\auctionservice.api\\auctionservice.api\\dtos\\updateauctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|solutionrelative:auctionservice.api\\dtos\\updateauctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|d:\\project\\dockerandkubernetes\\auctionservice-app\\api\\auctionservice.api\\auctionservice.api\\dtos\\createauctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|solutionrelative:auctionservice.api\\dtos\\createauctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|d:\\project\\dockerandkubernetes\\auctionservice-app\\api\\auctionservice.api\\auctionservice.api\\requesthelpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|solutionrelative:auctionservice.api\\requesthelpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|d:\\project\\dockerandkubernetes\\auctionservice-app\\api\\auctionservice.api\\auctionservice.api\\dtos\\auctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|solutionrelative:auctionservice.api\\dtos\\auctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|d:\\project\\dockerandkubernetes\\auctionservice-app\\api\\auctionservice.api\\auctionservice.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|solutionrelative:auctionservice.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|d:\\project\\dockerandkubernetes\\auctionservice-app\\api\\auctionservice.api\\auctionservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F19376-D1BB-458B-8515-27A4477288E3}|AuctionService.API\\AuctionService.API.csproj|solutionrelative:auctionservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,93 +38,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "AuctionService.API\\Data\\DbInitializer.cs",
-              "ToolTip": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "AuctionService.API\\Data\\DbInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T21:09:10.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuctionsController.cs",
-              "DocumentMoniker": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\Controllers\\AuctionsController.cs",
-              "RelativeDocumentMoniker": "AuctionService.API\\Controllers\\AuctionsController.cs",
-              "ToolTip": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\Controllers\\AuctionsController.cs",
-              "RelativeToolTip": "AuctionService.API\\Controllers\\AuctionsController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAADwvwsAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T21:05:56.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\Program.cs",
               "RelativeDocumentMoniker": "AuctionService.API\\Program.cs",
               "ToolTip": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\Program.cs",
               "RelativeToolTip": "AuctionService.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T12:50:14.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T17:32:31.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MappingProfiles.cs",
               "DocumentMoniker": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\RequestHelpers\\MappingProfiles.cs",
               "RelativeDocumentMoniker": "AuctionService.API\\RequestHelpers\\MappingProfiles.cs",
               "ToolTip": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\RequestHelpers\\MappingProfiles.cs",
               "RelativeToolTip": "AuctionService.API\\RequestHelpers\\MappingProfiles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T12:45:39.234Z",
+              "WhenOpened": "2024-11-09T16:44:36.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "AuctionsController.cs",
+              "DocumentMoniker": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\Controllers\\AuctionsController.cs",
+              "RelativeDocumentMoniker": "AuctionService.API\\Controllers\\AuctionsController.cs",
+              "ToolTip": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\Controllers\\AuctionsController.cs",
+              "RelativeToolTip": "AuctionService.API\\Controllers\\AuctionsController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwGgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:43:58.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UpdateAuctionDto.cs",
               "DocumentMoniker": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\DTOs\\UpdateAuctionDto.cs",
               "RelativeDocumentMoniker": "AuctionService.API\\DTOs\\UpdateAuctionDto.cs",
               "ToolTip": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\DTOs\\UpdateAuctionDto.cs",
               "RelativeToolTip": "AuctionService.API\\DTOs\\UpdateAuctionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T12:42:24.073Z",
+              "WhenOpened": "2024-11-10T08:42:00.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateAuctionDto.cs",
-              "DocumentMoniker": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\DTOs\\CreateAuctionDto.cs",
-              "RelativeDocumentMoniker": "AuctionService.API\\DTOs\\CreateAuctionDto.cs",
-              "ToolTip": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\DTOs\\CreateAuctionDto.cs",
-              "RelativeToolTip": "AuctionService.API\\DTOs\\CreateAuctionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AuctionDbContext.cs",
+              "DocumentMoniker": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\Data\\AuctionDbContext.cs",
+              "RelativeDocumentMoniker": "AuctionService.API\\Data\\AuctionDbContext.cs",
+              "ToolTip": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\Data\\AuctionDbContext.cs",
+              "RelativeToolTip": "AuctionService.API\\Data\\AuctionDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vxEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T12:40:03.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuctionDto.cs",
-              "DocumentMoniker": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\DTOs\\AuctionDto.cs",
-              "RelativeDocumentMoniker": "AuctionService.API\\DTOs\\AuctionDto.cs",
-              "ToolTip": "D:\\Project\\DockerAndKubernetes\\auctionservice-app\\API\\AuctionService.API\\AuctionService.API\\DTOs\\AuctionDto.cs",
-              "RelativeToolTip": "AuctionService.API\\DTOs\\AuctionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T12:38:00.392Z",
+              "WhenOpened": "2024-11-09T17:34:42.24Z",
               "EditorCaption": ""
             }
           ]

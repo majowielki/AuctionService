@@ -1,0 +1,12 @@
+D:\Project\DockerAndKubernetes\auctionservice-app\API\Contracts\Contracts\bin\Debug\net8.0\Contracts.deps.json
+D:\Project\DockerAndKubernetes\auctionservice-app\API\Contracts\Contracts\bin\Debug\net8.0\Contracts.dll
+D:\Project\DockerAndKubernetes\auctionservice-app\API\Contracts\Contracts\bin\Debug\net8.0\Contracts.pdb
+D:\Project\DockerAndKubernetes\auctionservice-app\API\Contracts\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DockerAndKubernetes\auctionservice-app\API\Contracts\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+D:\Project\DockerAndKubernetes\auctionservice-app\API\Contracts\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+D:\Project\DockerAndKubernetes\auctionservice-app\API\Contracts\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Project\DockerAndKubernetes\auctionservice-app\API\Contracts\Contracts\obj\Debug\net8.0\Contracts.sourcelink.json
+D:\Project\DockerAndKubernetes\auctionservice-app\API\Contracts\Contracts\obj\Debug\net8.0\Contracts.dll
+D:\Project\DockerAndKubernetes\auctionservice-app\API\Contracts\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+D:\Project\DockerAndKubernetes\auctionservice-app\API\Contracts\Contracts\obj\Debug\net8.0\Contracts.pdb
+D:\Project\DockerAndKubernetes\auctionservice-app\API\Contracts\Contracts\obj\Debug\net8.0\ref\Contracts.dll
